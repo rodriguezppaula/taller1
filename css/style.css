@@ -1,0 +1,51 @@
+body {
+    background-color: #c9faff
+}
+
+#titulo {
+    color: rgb(6, 0, 117);
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS';
+}
+
+button {
+    background-color: rgb(6, 0, 117);
+    border-bottom-color: blueviolet;
+    font-style: italic;
+    font-family: 'Trebuchet MS';
+    display: block;
+    margin: 0 auto;
+    border-radius: 20px;
+    font-size: 25px;
+    color: white;
+}
+
+#parrafo1 {
+    margin: 5%;
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+}
+
+#container {
+    margin: 5%;
+    font-family: 'Trebuchet MS';
+
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    width: 150px;
+    text-align: center;
+}
+
+#resultado {
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+}
